@@ -5,7 +5,6 @@ using namespace std;
 int main()
 {
     char str[1000]="{()[()]}{}([]){}";
-    int len=strlen(str);
     stack <char> s;
     s.push(str[0]);
     int i=1,j;
