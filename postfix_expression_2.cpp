@@ -1,3 +1,8 @@
+/*
+sample input : "2 3 1 * + 9 -"
+sample output : -4 
+*/
+
 #include<iostream>
 #include<stack>
 using namespace std;
