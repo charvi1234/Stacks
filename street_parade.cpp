@@ -1,8 +1,7 @@
 /*
 Sample input:
-5
-5 1 2 4 3 
-0
+no of test cases : 1 
+no of elements : 5 1 2 4 3 
 
 Sample output:
 yes
