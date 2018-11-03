@@ -1,3 +1,12 @@
+/*
+Sample input:
+5
+5 1 2 4 3 
+0
+
+Sample output:
+yes
+*/
 #include<iostream>
 #include<stack>
 #include<stdlib.h>
