@@ -1,1 +1,1 @@
-This repository contains various quetions implemented using stacks.
+This repository contains various questions solved using stacks.
